@@ -1,0 +1,1 @@
+Two programs that were used to compare the speeds at which a C program and C++ program could configure the hardware PWM using the sysfs controls.  C seemed to be faster than C++.
